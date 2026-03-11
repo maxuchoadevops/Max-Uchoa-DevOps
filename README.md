@@ -1,8 +1,11 @@
 # Olá, sou Maxmiller Uchoa! 👋
 
 🌐 Atualmente atuando como Analista de Redes
+
 🛡️ Entusiasta em Segurança da Informação
+
 📚 Em constante evolução nas áreas de Full Stack e DevOps
+
 ☁️ Estudando e explorando tecnologias AWS (Cloud Computing)
 
 ---
