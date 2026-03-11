@@ -1,78 +1,97 @@
-# Olá, sou Maxmiller Uchoa! 👋
+<img src="https://avatars.githubusercontent.com/u/247576256?v=4" width="180px" style="border-radius:50%">
 
-🌐 Atualmente atuando como Analista de Redes
+# 👋 Olá, eu sou Maxmiller Uchoa
 
-🛡️ Entusiasta em Segurança da Informação
+🌐 **Network Analyst | DevOps Enthusiast | Cybersecurity Student**
 
-📚 Em constante evolução nas áreas de Full Stack e DevOps
+Atuo com **Redes e Infraestrutura**, com grande interesse em **Segurança da Informação, Cloud Computing e DevOps**.
 
-☁️ Estudando e explorando tecnologias AWS (Cloud Computing)
+Atualmente estou expandindo meus conhecimentos em:
 
----
-
-### ⚡ Principais áreas de interesse:
-- Redes e Infraestrutura
-- Cybersecurity
-- Cloud Computing
-- Automação e DevOps
-<br>
-> 🚀 *Sempre buscando aprender, evoluir e construir soluções tecnológicas eficientes e seguras.*
-<br>
-
-### 💻 Tecnologias e ferramentas que utilizo/estudo:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="Windows Server" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
-<br>
-
-* **Conhecimentos Específicos:** Redes (TCP/IP, VLAN, Firewall, VPN) e Segurança da Informação.
+- ☁️ AWS
+- ⚙️ Automação e DevOps
+- 🛡️ Cybersecurity
+- 🐳 Containers e Orquestração
 
 ---
 
-<h3 align="left">Linguagens:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+# 🚀 Áreas de Interesse
+
+- 🌐 Network Infrastructure
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- ⚙️ DevOps Automation
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub:
+# 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_EXATO_AQUI&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_EXATO_AQUI&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=7" alt="Linguagens mais usadas" height="165" />
-</div>
+### Sistemas
 
-<br>
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-blue?style=for-the-badge&logo=windows)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO_EXATO_AQUI&theme=radical" alt="GitHub Streak" />
-</div>
+### DevOps / Cloud
 
-<br>
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
-<h3 align="left">Me Siga:</h3>
-<p align="left">
-  <a href="https://instagram.com/maxmiller_uchoa" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxmiller_uchoa" height="30" width="40" />
-  </a>
-</p>
+### Desenvolvimento
+
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+### Infraestrutura
+
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+---
+
+# 📚 Conhecimentos Técnicos
+
+- TCP/IP Networking
+- VLAN
+- VPN
+- Firewalls
+- Linux Administration
+- Docker Containers
+- Cloud Infrastructure
+- DevOps pipelines
+
+---
+
+# 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxuchoadevops&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxuchoadevops&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 Conquistas
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maxuchoadevops&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 🌐 Contato
+
+<a href="https://linkedin.com/in/maxmiller-uchoa">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://dev.to/maxmiller_uchoa_77f4225d7">
+<img src="https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to">
+</a>
+
+<a href="https://instagram.com/maxmiller_uchoa">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+</a>
+
+---
+
+🚀 *Always learning, building and improving secure and scalable technology solutions.*
