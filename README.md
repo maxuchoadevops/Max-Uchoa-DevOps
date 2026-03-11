@@ -1,4 +1,4 @@
-# Olá, eu sou o Maxmiller Uchoa! 👋
+# Olá, sou Maxmiller Uchoa! 👋
 
 🌐 Atualmente atuando como Analista de Redes
 🛡️ Entusiasta em Segurança da Informação
