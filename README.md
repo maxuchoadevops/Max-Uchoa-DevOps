@@ -1,53 +1,66 @@
-<img src="https://avatars.githubusercontent.com/u/247576256?v=4" width="180px" style="border-radius:50%">
+<h1 align="center">👋 Oi, sou Maxmiller Uchoa</h1>
 
-# 👋 Olá, eu sou Maxmiller Uchoa
 
-🌐 **Network Analyst | DevOps Enthusiast | Cybersecurity Student**
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/247576256?v=4"
+       width="150px"
+       style="border-radius: 50%; border: 4px solid white; margin-top: -75px;" />
+</p>
 
-Atuo com **Redes e Infraestrutura**, com grande interesse em **Segurança da Informação, Cloud Computing e DevOps**.
+<p align="center">
+  <img src="https://flagcdn.com/w40/br.png"/>
+  <img src="https://flagcdn.com/w40/us.png"/>
+</p>
+</p>
+<p align="center">
+🚀 DevOps & Frontend Developer <br>
+📍 Fortaleza - CE | Brasil
+</p>
 
-Atualmente estou expandindo meus conhecimentos em:
-
-- ☁️ AWS
-- ⚙️ Automação e DevOps
-- 🛡️ Cybersecurity
-- 🐳 Containers e Orquestração
+<p align="center">
+  <a href="https://github.com/maxmilleruchoadevops">
+    <img src="https://img.shields.io/github/followers/maxmilleruchoadevops?label=Seguidores&style=social" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Áreas de Interesse
+## ⚡ Sobre mim
 
-- 🌐 Network Infrastructure
-- 🔐 Cybersecurity
-- ☁️ Cloud Computing
-- ⚙️ DevOps Automation
+💻 Atuo com Infraestrutura de Redes, focado em performance, automação e escalabilidade  
+🎯 Buscando evolução constante na área de tecnologia  
+📚 Estudante de  FullStack  
+🔥 Construindo projetos reais e aplicáveis  
 
----
 
-# 🛠️ Tecnologias e Ferramentas
-
-### Sistemas
+### Infraestrutura
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-blue?style=for-the-badge&logo=windows)
 
-### DevOps / Cloud
+---
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+## 🧠 Tecnologias & Stack
 
-### Desenvolvimento
+### 🚀 DevOps
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 
-### Infraestrutura
+---
 
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+---
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+
 
 ---
 
@@ -64,6 +77,16 @@ Atualmente estou expandindo meus conhecimentos em:
 
 ---
 
+## 🔥 Projetos em destaque
+
+🚧 Em constante evolução...  
+Aqui você encontrará projetos focados em:
+
+- Automação e DevOps  
+- Aplicações Frontend modernas  
+- Integrações e APIs  
+- Soluções reais para problemas reais  
+
 # 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxuchoadevops&show_icons=true&theme=tokyonight)
@@ -76,22 +99,20 @@ Atualmente estou expandindo meus conhecimentos em:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maxuchoadevops&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-# 🌐 Contato
-
-<a href="https://linkedin.com/in/maxmiller-uchoa">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://dev.to/maxmiller_uchoa_77f4225d7">
-<img src="https://img.shields.io/badge/DEV.TO-black?style=for-the-badge&logo=dev.to">
-</a>
-
-<a href="https://instagram.com/maxmiller_uchoa">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
-</a>
 
 ---
 
-🚀 *Always learning, building and improving secure and scalable technology solutions.*
+## 🌐 Contato
+
+📧 Email:maxmilleruchoadevops@gmail.com  
+💼 LinkedIn:https://br.linkedin.com/in/maxmiller-uchoa 
+
+---
+
+## 💡 Filosofia
+
+> Disciplina constrói resultado. Consistência constrói autoridade.
+
+---
+
+⭐ Sempre evoluindo | 🚀 Construindo algo maior
